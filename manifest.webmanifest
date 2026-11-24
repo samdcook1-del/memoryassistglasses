@@ -1,0 +1,30 @@
+{
+  "name": "Remi · Memory Assist Glasses",
+  "short_name": "Remi",
+  "description": "Remi, the phone app for Memory Assist Glasses: a student prototype (SEL611, Regent’s University London). Peggy and Sarah are fictional.",
+  "lang": "en-GB",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EDF1EE",
+  "theme_color": "#EDF1EE",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
